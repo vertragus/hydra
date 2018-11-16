@@ -1,5 +1,6 @@
 ### Description 
-Select the surfaces of your buildings and discover the solar generation potential, customizing orientation, tilt, spacing, size and conversion efficiency
+Select the surfaces of your buildings and discover the solar generation potential, customizing orientation, tilt, spacing, size and conversion efficiency.
+The file has been developed for educational purposes. Use with caution.
 
 This file has been submitted by [vertragus](https://github.com/vertragus)
 
